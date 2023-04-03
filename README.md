@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Web Report&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Web_Report&fontSize=90" />
 
 https://github.com/kimminsum/Pioneer.git
 
@@ -11,8 +11,3 @@ https://github.com/kimminsum/Pioneer.git
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimminsum&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kimminsum&show_icons=true">
-
-### Purpose : Improve english learning environment
-
-## 하단 바 [ 자신의 기록 ] [ 퀴즈 ] [ 어원 찾기 ] [ 출판사에 따라 단어 선택 ]
-<img src="https://user-images.githubusercontent.com/74331678/218521870-0587ccb9-f699-45da-ade7-115223b706dd.png" width="30%"/>
