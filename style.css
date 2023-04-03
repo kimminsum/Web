@@ -1,0 +1,27 @@
+body {
+    margin: 0 auto;
+    background-color: rgb(51, 51, 51);
+}
+/* header */
+.header_container {
+    display: flex;
+    margin: 30px;
+}
+.menu_container {
+    margin: auto;
+    margin-left: 0;
+    margin-right: 20px;
+}
+.menu_icon {
+    width: 18px;
+    height: 1px;
+    background-color: white;
+    margin: 5px auto;
+}
+.youtube_logo {
+    width: 80px;
+    height:  28px;
+}
+.search_container {
+    margin: auto;
+}
