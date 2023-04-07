@@ -1,6 +1,7 @@
 body {
+    height: 1000px;
     margin: 0 auto;
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(19, 18, 18);
 }
 /* header */
 .header_container {
@@ -19,9 +20,89 @@ body {
     margin: 5px auto;
 }
 .youtube_logo {
+    margin-left: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
     width: 80px;
     height:  28px;
 }
 .search_container {
-    margin: auto;
+    display: flex;
+    height: 40px;
+}
+.search_input{
+    border-top-left-radius : 20px;
+    border-bottom-left-radius : 20px;
+    height: 40px;
+    margin-left: 100px;
+    border:none;
+    background:none;
+    border: 1px solid gray;
+    border-right:0;
+    width: 300px;
+    box-sizing:border-box; 
+    color:gray;
+    font-size:16px;
+}
+.search_btn {
+    border-top-right-radius : 20px;
+    border-bottom-right-radius : 20px;
+    width: 80px;
+    height: 40px;
+    border:none;
+    background:none;
+    border: 1px solid gray;
+}
+.search_btn_img {
+    width: 30px;
+}
+/* body */
+.body {
+    display: flex;
+}
+/* left side bar */
+.leftside_bar {
+    display: flex;
+    flex-direction: column;
+}
+.menubar_txt {
+    margin-top: 50px;
+    width: 100px;
+    text-align: center;
+    font-size: 5px;
+    font-weight: bold;
+    color: white;
+}
+/* recommand bar */
+.recommand_btn {
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background: rgb(60, 60, 60);
+    border: 1px solid rgb(60, 60, 60);
+    border-radius: 7px;
+    color: white;
+}
+/* video */
+.video_container {
+    display: flex;
+    flex-direction: column;
+}
+.video_align {
+    display: flex;
+}
+.video_info_box {
+    padding: 40px;
+}
+.video {
+    width: 350px;
+    height: 200px;
+    background-color: gray;
+}
+.video_title {
+    color: white;
 }
